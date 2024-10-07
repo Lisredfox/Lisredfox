@@ -18,10 +18,12 @@
 ![GitHub](https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=github&logoColor=950a07)
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=for-the-badge&logo=postman&logoColor=950a07)
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=950a07)
+![PyCharm](https://img.shields.io/badge/-Pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=950a07)
 ![Selenium](https://img.shields.io/badge/-Selenium-000000?style=for-the-badge&logo=selenium&logoColor=950a07)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma&logoColor=950a07)
 
 ### 🤝 Follow me:
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram&logoColor=950a07)](https://t.me/lisredfox)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lisredfox&theme=shadow_red&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
