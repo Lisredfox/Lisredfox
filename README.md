@@ -15,9 +15,9 @@
 
 
 ### 🛠️ Инструменты:
-![Flutter](https://img.shields.io/badge/-Flutter-000000?style=for-the-badge&logo=flutter&logoColor=47C5FB)
-![Flutter](https://img.shields.io/badge/-Flutter-000000?style=for-the-badge&logo=flutter&logoColor=47C5FB)
-
+![Postman](https://img.shields.io/badge/-Postman-000000?style=for-the-badge&logo=postman&logoColor=950a07)
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=950a07)
+![GitHub](https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=github&logoColor=950a07)
 
 
 Follow Me
