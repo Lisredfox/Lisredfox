@@ -2,6 +2,7 @@
 
 ### 👩‍💻 Обо мне:
 Привет, меня зовут Марина!
+
 Мой интерес к IT-индустрии начинался в отделе продаж проектов. После пары лет аналитической работы, 
 помощи в написании технических заданий и сдачи готового ПО, ко мне пришло озарение, что
 я давно уже не просто продаю и веду проекты, но и участвую в оценке качества, что в итоге
@@ -14,8 +15,8 @@
 
 
 ### 🛠️ Инструменты:
-![Flutter](https://img.shields.io/badge/-Flutter-1c1c1c?style=for-the-badge&logo=flutter&logoColor=47C5FB)
-![Flutter](https://img.shields.io/badge/-Flutter-1c1c1c?style=for-the-badge&logo=flutter&logoColor=47C5FB)
+![Flutter](https://img.shields.io/badge/-Flutter-000000?style=for-the-badge&logo=flutter&logoColor=47C5FB)
+![Flutter](https://img.shields.io/badge/-Flutter-000000?style=for-the-badge&logo=flutter&logoColor=47C5FB)
 
 
 
