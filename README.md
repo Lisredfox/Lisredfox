@@ -15,19 +15,19 @@
 
 
 ### 🛠️ Tools:
-![GitHub](https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=github&logoColor=950a07)
-![Postman](https://img.shields.io/badge/-Postman-000000?style=for-the-badge&logo=postman&logoColor=950a07)
-![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=950a07)
-![PyCharm](https://img.shields.io/badge/-Pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=950a07)
-![Selenium](https://img.shields.io/badge/-Selenium-000000?style=for-the-badge&logo=selenium&logoColor=950a07)
-![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma&logoColor=950a07)
-![Photoshop](https://img.shields.io/badge/-Photoshop-000000?style=for-the-badge&logo=adobe&logoColor=950a07)
-![Confluence](https://img.shields.io/badge/-Confluence-000000?style=for-the-badge&logo=confluence&logoColor=950a07)
-![Jira](https://img.shields.io/badge/-Jira-000000?style=for-the-badge&logo=jira&logoColor=950a07)
-![Obsidian](https://img.shields.io/badge/-Obsidian-000000?style=for-the-badge&logo=obsidian&logoColor=950a07)
+![GitHub](https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=github&logoColor=0edcda)
+![Postman](https://img.shields.io/badge/-Postman-000000?style=for-the-badge&logo=postman&logoColor=0edcda)
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=0edcda)
+![PyCharm](https://img.shields.io/badge/-Pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=0edcda)
+![Selenium](https://img.shields.io/badge/-Selenium-000000?style=for-the-badge&logo=selenium&logoColor=0edcda)
+![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma&logoColor=0edcda)
+![Photoshop](https://img.shields.io/badge/-Photoshop-000000?style=for-the-badge&logo=adobe&logoColor=0edcda)
+![Confluence](https://img.shields.io/badge/-Confluence-000000?style=for-the-badge&logo=confluence&logoColor=0edcda)
+![Jira](https://img.shields.io/badge/-Jira-000000?style=for-the-badge&logo=jira&logoColor=0edcda)
+![Obsidian](https://img.shields.io/badge/-Obsidian-000000?style=for-the-badge&logo=obsidian&logoColor=0edcda)
 
 ### 🤝 Follow me:
-[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram&logoColor=950a07)](https://t.me/lisredfox)
+[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram&logoColor=f38410)](https://t.me/lisredfox)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lisredfox&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
