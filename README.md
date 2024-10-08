@@ -1,4 +1,4 @@
-![Header](https://github.com/Lisredfox/Lisredfox/blob/main/assets/banner_git_hub%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.jpg)
+![Header](https://github.com/Lisredfox/Lisredfox/blob/c0d5919d9f8f7b076a325ec808850fafda70c238/assets/kandinsky-download-1728375236097%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.png)
 
 ### 👩‍💻 About me:
 Привет, меня зовут Марина!
