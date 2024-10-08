@@ -29,5 +29,5 @@
 ### 🤝 Follow me:
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram&logoColor=950a07)](https://t.me/lisredfox)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lisredfox&theme=shadow_red&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lisredfox&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
