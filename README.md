@@ -25,6 +25,7 @@
 ![Confluence](https://img.shields.io/badge/-Confluence-000000?style=for-the-badge&logo=confluence&logoColor=0edcda)
 ![Jira](https://img.shields.io/badge/-Jira-000000?style=for-the-badge&logo=jira&logoColor=0edcda)
 ![Obsidian](https://img.shields.io/badge/-Obsidian-000000?style=for-the-badge&logo=obsidian&logoColor=0edcda)
+![Youtrack](https://img.shields.io/badge/-YouTrack-000000?style=for-the-badge&logo=jetbrains&logoColor=0edcda)
 
 ### 🤝 Follow me:
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram&logoColor=f38410)](https://t.me/lisredfox)
