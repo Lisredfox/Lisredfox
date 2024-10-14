@@ -27,6 +27,16 @@
 ![Obsidian](https://img.shields.io/badge/-Obsidian-000000?style=for-the-badge&logo=obsidian&logoColor=0edcda)
 ![Youtrack](https://img.shields.io/badge/-YouTrack-000000?style=for-the-badge&logo=jetbrains&logoColor=0edcda)
 
+### 📌 Testing Artefacts:
+
+- [Тестирование документации](https://github.com/Lisredfox/Test_Documentation)
+- [Техники тест-дизайна](https://github.com/Lisredfox/Test_Design_Techniques)
+- [Тестирование API](https://github.com/Lisredfox/API)
+- [Работа с базами данных](https://github.com/Lisredfox/Database)
+- [UI автоматизация тестового сайта DemoQA](https://github.com/Lisredfox/DemoQA/tree/master)
+- [Python - работа с числами, строками, списками, булевыми значениями, функциями, аннотациями, условными операторами и 
+ООП](https://github.com/Lisredfox/ITMO_Automation)
+
 ### 🤝 Follow me:
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram&logoColor=f38410)](https://t.me/lisredfox)
 
