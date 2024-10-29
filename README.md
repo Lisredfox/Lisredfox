@@ -35,8 +35,8 @@
 - [Python - работа с числами, строками, списками, булевыми значениями, функциями, аннотациями, условными операторами и 
 ООП](https://github.com/Lisredfox/ITMO_Automation)
 
-[//]: ### 🤝 Follow me:
-[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram&logoColor=f38410)](https://t.me/lisredfox)
+[//]: # ### 🤝 Follow me:
+[//]: # [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram&logoColor=f38410)](https://t.me/lisredfox)
 
 [//]: # ([![Anurag's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=lisredfox&theme=cobalt&show_icons=true&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
 
