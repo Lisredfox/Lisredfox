@@ -27,7 +27,7 @@
 
 ### 📌 Testing Artefacts:
 
-- [Тестирование документации](https://github.com/Lisredfox/Test_Documentation)
+- [Тестовая документация](https://github.com/Lisredfox/Test_Documentation)
 - [Техники тест-дизайна](https://github.com/Lisredfox/Test_Design_Techniques)
 - [Тестирование API](https://github.com/Lisredfox/API)
 - [Работа с базами данных](https://github.com/Lisredfox/Database)
